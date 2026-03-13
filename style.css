@@ -1,7 +1,14 @@
+head {
+  color: #b370ff;
+  font-size: larger;
+  font-family: 'Courier Prime', Courier, monospace;
+}
+
 body {
   background-color: #bdf0bf;
+  color: #23422b;
   text-align: center;
   font-family: 'Courier Prime';
-  font-size: 2rem;
+  font-size: 0.5rem;
   list-style-type: none;
 }
